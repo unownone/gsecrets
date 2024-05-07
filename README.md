@@ -22,7 +22,7 @@ To download and install `gsecret.sh`, follow these steps:
 1. Download the script to your home directory:
 
    ```bash
-   curl -o ~/gsecret.sh https://raw.githubusercontent.com/your-repo/gsecret.sh/main/gsecret.sh
+   curl -o ~/gsecret.sh https://raw.githubusercontent.com/unownone/gsecrets/main/gsecret.sh
    ```
 
 2. Make the script executable:
